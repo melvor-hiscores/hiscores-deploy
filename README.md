@@ -1,0 +1,2 @@
+# hiscores-deploy
+Deploy artifacts
